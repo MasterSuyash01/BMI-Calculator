@@ -1,0 +1,80 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@9.5.0
+2 info using node@v19.7.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/suyashsrivastav/Library/Caches/typescript/4.8/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/Users/suyashsrivastav/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 0ms
+16 timing config:load Completed in 7ms
+17 timing npm:load:configload Completed in 7ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 1ms
+20 verbose title npm install types-registry@latest
+21 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+22 timing npm:load:setTitle Completed in 7ms
+23 timing config:load:flatten Completed in 1ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:/Users/suyashsrivastav/.npm/_logs/2023-07-02T19_31_30_695Z-
+26 verbose logfile /Users/suyashsrivastav/.npm/_logs/2023-07-02T19_31_30_695Z-debug-0.log
+27 timing npm:load:logFile Completed in 4ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 22ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 11ms
+35 timing arborist:ctor Completed in 0ms
+36 http fetch GET 200 https://registry.npmjs.org/types-registry 604ms (cache updated)
+37 timing idealTree:userRequests Completed in 611ms
+38 silly idealTree buildDeps
+39 silly fetch manifest types-registry@0.1.651
+40 silly placeDep ROOT types-registry@0.1.651 REPLACE for:  want: 0.1.651
+41 timing idealTree:#root Completed in 3ms
+42 timing idealTree:node_modules/types-registry Completed in 0ms
+43 timing idealTree:buildDeps Completed in 3ms
+44 timing idealTree:fixDepFlags Completed in 0ms
+45 timing idealTree Completed in 625ms
+46 timing reify:loadTrees Completed in 625ms
+47 timing reify:diffTrees Completed in 0ms
+48 silly reify mark retired [
+48 silly reify   '/Users/suyashsrivastav/Library/Caches/typescript/4.8/node_modules/types-registry'
+48 silly reify ]
+49 silly reify moves {
+49 silly reify   '/Users/suyashsrivastav/Library/Caches/typescript/4.8/node_modules/types-registry': '/Users/suyashsrivastav/Library/Caches/typescript/4.8/node_modules/.types-registry-esDyRjyQ'
+49 silly reify }
+50 timing reify:retireShallow Completed in 1ms
+51 timing reify:createSparse Completed in 0ms
+52 timing reify:loadBundles Completed in 0ms
+53 silly audit bulk request { 'types-registry': [ '0.1.651' ] }
+54 silly tarball no local data for types-registry@https://registry.npmjs.org/types-registry/-/types-registry-0.1.651.tgz. Extracting by manifest.
+55 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 336ms
+56 timing auditReport:getReport Completed in 337ms
+57 silly audit report {}
+58 timing auditReport:init Completed in 0ms
+59 timing reify:audit Completed in 337ms
+60 http fetch GET 200 https://registry.npmjs.org/types-registry/-/types-registry-0.1.651.tgz 341ms (cache miss)
+61 timing reifyNode:node_modules/types-registry Completed in 344ms
+62 timing reify:unpack Completed in 344ms
+63 timing reify:unretire Completed in 0ms
+64 timing build:queue Completed in 0ms
+65 timing build:deps Completed in 0ms
+66 timing build Completed in 0ms
+67 timing reify:build Completed in 0ms
+68 timing reify:trash Completed in 2ms
+69 timing reify:save Completed in 2ms
+70 timing reify Completed in 981ms
+71 silly CHANGE node_modules/types-registry
+72 timing command:install Completed in 983ms
+73 verbose exit 0
+74 timing npm Completed in 1020ms
+75 info ok

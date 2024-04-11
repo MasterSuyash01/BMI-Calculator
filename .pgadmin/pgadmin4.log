@@ -1,0 +1,10 @@
+2023-04-03 02:16:03,723: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.
+2023-04-03 02:16:52,080: ERROR	pgadmin:	Could not connect to server(#1) - 'PostgreSQL 14'.
+Error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2023-04-03 02:17:00,203: ERROR	pgadmin:	Could not connect to server(#1) - 'PostgreSQL 14'.
+Error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+2023-04-03 02:17:01,169: ERROR	pgadmin:	Could not connect to server(#1) - 'PostgreSQL 14'.
+Error: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+

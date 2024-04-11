@@ -1,0 +1,23 @@
+11/13/2021 19:31:37 Program.Start Product=dr.fone, Version=10.2.3.247
+11/13/2021 19:31:37 Operating System: Unix 21.1.0.0
+11/13/2021 19:31:37 Friendly Version: MaxOSX OS64Bits
+11/13/2021 19:31:37 Language: English (India)
+11/13/2021 19:31:37 ProcessorCount: 8
+11/13/2021 19:31:37 iTunesVersion:0.0
+11/13/2021 19:31:37 /Users/.Android
+11/13/2021 19:31:37 <USB DEBUG> start requesting...
+11/13/2021 19:31:38 Program.InitRegisterModule
+11/13/2021 19:31:39 RegisterUSBDevicesNotify handle:140391684038032
+11/13/2021 19:31:39 MacUsbNotifier  StartMonitor start
+11/13/2021 19:31:39 MacUsbNotifier  StopMonitor
+11/13/2021 19:31:39 MacOS  StartMonitorWorker start
+11/13/2021 19:31:39 MacUsbNotifier  DoListen start
+11/13/2021 19:31:39 ConnectionScanTask start
+11/13/2021 19:31:39 ConnectionScanTask End
+11/13/2021 19:31:39 MacUsb DeviceConnectCallback 
+11/13/2021 19:31:40 <USB DEBUG> start parsing json...
+11/13/2021 19:31:40 <USB DEBUG> value compare: 1-0
+11/13/2021 19:31:40 <USB DEBUG> GetJson Error:Object reference not set to an instance of an object
+11/13/2021 19:31:40   at cp3.b (System.Net.HttpWebResponse A_0) [0x00135] in <08a1e3d749fa41e9a90fb648d96f941a>:0 
+11/13/2021 19:31:58 MacUsb DeviceConnectCallback 
+11/13/2021 19:32:10 MacUsbNotifier  StopMonitor

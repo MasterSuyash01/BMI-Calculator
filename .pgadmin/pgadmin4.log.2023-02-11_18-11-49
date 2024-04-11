@@ -1,0 +1,2 @@
+2023-02-11 17:47:38,657: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.
+2023-02-11 18:11:49,254: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///Users/suyashsrivastav/h.py" added="2023-12-07T16:16:00.617628Z" modified="2023-12-07T16:16:00.908857Z" visited="2023-12-07T16:16:00.617630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/*"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-12-07T16:16:00.908855Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

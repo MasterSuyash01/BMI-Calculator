@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "create-hello-world": "^1.0.2"
+  }
+}
